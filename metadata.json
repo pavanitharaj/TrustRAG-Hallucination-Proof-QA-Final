@@ -1,0 +1,7 @@
+{
+  "name": "TrustRAG - Hallucination-Proof Document Q&A",
+  "description": "Hallucination-proof RAG system answering exclusively from provided documents with strict verification, automated source citations, and 'I don't know' guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
